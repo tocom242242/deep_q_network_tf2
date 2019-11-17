@@ -1,4 +1,4 @@
-Deep Q Network is implemented by TensorFlow2.0(Keras).
+Deep Q Network implemented by TensorFlow2.0(Keras).
 
 ## How to run sample code
 
@@ -9,5 +9,3 @@ Deep Q Network is implemented by TensorFlow2.0(Keras).
 ```
 python run_dqn_in_cartpole.py
 ```
-
-
