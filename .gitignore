@@ -1,0 +1,3 @@
+__pycache__/
+*.py[cod]
+for_testing_in_colab.py
